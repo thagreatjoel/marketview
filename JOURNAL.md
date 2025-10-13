@@ -10,8 +10,13 @@ This is my journal of the design and building process of **MarketView**.
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/446).
 
 
-## 10/13/2025 - I worked on arranging pcb layouts  
+## 10/13/2025 7 AM - I worked on arranging pcb layouts  
 
 I have been working on the pcb layouts on easyeda. kinda hard to find the perfect components for my project. I am using esp32 wroom, 0.96 oled display and butons. Routing was the biggest take.. it is not finished yet. This step is exacting because I could see the hardware about to done, and I learned more about bcb principles![Screenshot_20251013-072456.Chrome.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTkzMiwicHVyIjoiYmxvYl9pZCJ9fQ==--297d1217cb71327f786b1751a75bc6643daa28f8/Screenshot_20251013-072456.Chrome.jpg)
+  
+
+## 10/13/2025 9 PM - Pcb creation  
+
+This is my first time using easyeda and also take hard time to make it.. I have learned more about this.. and hardly finished routing the entire pcb.. there are some of features I want to add soon. I also had added busser and led for some indications. ![Screenshot_20251013-202230.Chrome.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjAxMywicHVyIjoiYmxvYl9pZCJ9fQ==--8feb799ab0ef3b190618e2fb13690e1fcd35eb42/Screenshot_20251013-202230.Chrome.jpg)
   
 
