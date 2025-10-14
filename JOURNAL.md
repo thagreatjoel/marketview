@@ -20,3 +20,8 @@ I have been working on the pcb layouts on easyeda. kinda hard to find the perfec
 This is my first time using easyeda and also take hard time to make it.. I have learned more about this.. and hardly finished routing the entire pcb.. there are some of features I want to add soon. I also had added busser and led for some indications. ![Screenshot_20251013-202230.Chrome.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjAxMywicHVyIjoiYmxvYl9pZCJ9fQ==--8feb799ab0ef3b190618e2fb13690e1fcd35eb42/Screenshot_20251013-202230.Chrome.jpg)
   
 
+## 10/14/2025 - Reassembled the PCB  
+
+![Screenshot_20251014-180451.Chrome.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjE5MSwicHVyIjoiYmxvYl9pZCJ9fQ==--6085877a7cb9a30224e187d0f11a42d21d6e4046/Screenshot_20251014-180451.Chrome.png)
+I had some errors in routing pcb and took a while to fix it. I had removed the old oled display and replaced it with different model display. And I have added type c connector to the board and added a regulator to give the esp 3.3v instead of 5v. The power supply is managed well.  
+
