@@ -25,3 +25,8 @@ This is my first time using easyeda and also take hard time to make it.. I have 
 ![Screenshot_20251014-180451.Chrome.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjE5MSwicHVyIjoiYmxvYl9pZCJ9fQ==--6085877a7cb9a30224e187d0f11a42d21d6e4046/Screenshot_20251014-180451.Chrome.png)
 I had some errors in routing pcb and took a while to fix it. I had removed the old oled display and replaced it with different model display. And I have added type c connector to the board and added a regulator to give the esp 3.3v instead of 5v. The power supply is managed well.  
 
+## 10/15/2025 - Final pcb touch  
+
+Worked the pcb after a the layout arrangement.. i have added some buttons to change the modes. I am thinking to add some other things to the project to make it better. Recently I added buttons and improved the power supply for it. Some I will added a battery to it![Screenshot_20251015-212024.Chrome.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjM2MiwicHVyIjoiYmxvYl9pZCJ9fQ==--d004700ed873fd700e0b83210b34ad5dc7c04fb2/Screenshot_20251015-212024.Chrome.jpg)
+  
+
